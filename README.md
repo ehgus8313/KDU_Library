@@ -26,6 +26,6 @@ KDU_Library Project by KDH
 
 회원가입 화면입니다. 서버에서 등록된 아이디 정보를 받아와서 중복확인 하는 기능을 구현하였습니다.
 
-<img src="./image/notice.jpg" width="40%"/> <img src="./image/server notice.PNG" width="40%"/>
+<img src="./image/notice.jpg" width="40%"/> <img src="./image/server notice.PNG" height="40%"/>
 
 로그인시 나타나는 공지사항페이지입니다. 서버에 등록된 공지사항을 받아와 ListView형태로 표현합니다.
