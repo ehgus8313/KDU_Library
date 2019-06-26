@@ -18,5 +18,5 @@ KDU_Library Project by KDH
 **스크린샷**
 ---
 
-![loading](./image/loading.jpg)<img width="100" height="100"></img> ![login](./image/login.jpg)<img width="100" height="100"></img>
+<img width="100" height="100">![loading](./image/loading.jpg)</img> ![login](./image/login.jpg)<img width="100" height="100"></img>
 로딩화면, 로그인 화면입니다.
