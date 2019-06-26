@@ -37,4 +37,4 @@ KDU_Library Project by KDH
 <img src="./image/qrcode.jpg" width="40%"/> <img src="./image/qrcode2.jpg" width="40%"/>
 
 회원가입때 등록한 아이디(학번), 이름, 학과를 결합하여 QR코드 생성.
-***고쳐야할것:서버에서 정보를 받아올때 암호화하기. QR코드 스캔시 암호화된 정보로 출력하도록 하기***
+\***고쳐야할것:서버에서 정보를 받아올때 암호화하기. QR코드 스캔시 암호화된 정보로 출력하도록 하기***
