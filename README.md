@@ -42,3 +42,6 @@ KDU_Library Project by KDH
 ***고쳐야할것:서버에서 정보를 받아올때 암호화하기. QR코드 스캔시 암호화된 정보로 출력하도록 하기***
 
 <img src="./image/seat.jpg" width="30%"/> <img src="./image/myseat.jpg" width="30%"/> <img src="./image/seat2.jpg" width="30%"/>
+
+좌석번호와 열람실을 선택후 예약하면 좌석이 예약됩니다. 그 후 연장과 반납도 가능합니다.  
+***고쳐야할것:현재는 좌석예약시 내부DB에 저장됨. 추후에 서버와 연동***
