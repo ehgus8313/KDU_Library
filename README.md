@@ -28,12 +28,12 @@ KDU_Library Project by KDH
 
 <img src="./image/notice.jpg" width="50%"/> <img src="./image/server notice.PNG"/>
 
-로그인시 나타나는 공지사항페이지입니다. 서버에 등록된 공지사항을 받아와 ListView형태로 표현합니다.
+로그인시 나타나는 공지사항페이지입니다. 서버에 등록된 공지사항을 받아와 ListView형태로 표현합니다.  
 ***고쳐야할것: [극동대학교 도서관 공지사항](https://lib.kdu.ac.kr/#/bbs/notice?offset=0&max=20)에서 직접 파싱해서 DB에 추가할수있도록 고민해보기 (현재는 수동으로 DB에 입력해줘야함)***
 
 <img src="./image/mainpage.jpg" width="50%"/>
 
-메인페이지 입니다. 직관적인 UI로 쉽게 알아볼수 있도록 제작하였습니다.
+메인페이지 입니다. 직관적인 UI로 쉽게 알아볼수 있도록 제작하였습니다.  
 ***고쳐야할것:메인UI 사이즈수정, 정사각형으로 윈도우UI처럼 수정하기***
 
 <img src="./image/qrcode.jpg" width="40%"/> <img src="./image/qrcode2.jpg" width="40%"/>
@@ -41,4 +41,4 @@ KDU_Library Project by KDH
 회원가입때 등록한 아이디(학번), 이름, 학과를 결합하여 QR코드 생성.  
 ***고쳐야할것:서버에서 정보를 받아올때 암호화하기. QR코드 스캔시 암호화된 정보로 출력하도록 하기***
 
-
+<img src="./image/myseat.jpg" width="30%"/> <img src="./image/seat.jpg" width="30%"/> <img src="./image/seat2.jpg" width="30%"/>
