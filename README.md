@@ -19,4 +19,5 @@ KDU_Library Project by KDH
 ---
 
 ![loading](./image/loading.jpg)
-로딩화면입니다.
+![login](./image/login.jpg)
+로딩, 로그인 화면입니다.
