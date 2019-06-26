@@ -20,3 +20,6 @@ KDU_Library Project by KDH
 <img src="./image/loading.jpg" width="40%"/> <img src="./image/login.jpg" width="40%"/>
 
 로딩화면, 로그인 화면입니다.
+
+
+<img src="./image/register.jpg" width="40%"/> <img src="./image/register2.jpg" width="40%"/> <img src="./image/register3.jpg" width="40%"/>
